@@ -1,7 +1,7 @@
 Commercial page for Charnwood Food Truck.
 
 Website based heavily on MIT-licensed template: 
-Pigga Free Bootstrap Restaurant Template with ♥️ and creativity by Devcrud.com 
+Pigga Free Bootstrap Restaurant Template made with ♥️ and creativity by Devcrud.com 
 Product Page: https://wwww.devcrud.com/
 
 Further Credits for the Template:
