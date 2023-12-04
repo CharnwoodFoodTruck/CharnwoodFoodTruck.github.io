@@ -1,4 +1,4 @@
-Commercial page for Charnwood Food Truck.
+Official Organisation GitHub for the Charnwood Food Truck
 
 Website based heavily on MIT-licensed template: 
 Pigga Free Bootstrap Restaurant Template made with ♥️ and creativity by Devcrud.com 
